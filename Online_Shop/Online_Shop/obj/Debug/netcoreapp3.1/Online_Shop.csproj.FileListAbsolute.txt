@@ -1,0 +1,424 @@
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.StaticWebAssets.xml
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.exe
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.deps.json
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.runtimeconfig.json
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.runtimeconfig.dev.json
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.pdb
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.Views.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.Views.pdb
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csproj.AssemblyReference.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.AssemblyInfoInputs.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.AssemblyInfo.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csproj.CoreCompileInputs.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.MvcApplicationPartsAssemblyInfo.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.MvcApplicationPartsAssemblyInfo.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorAssemblyInfo.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorAssemblyInfo.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online_Shop.StaticWebAssets.Manifest.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online_Shop.StaticWebAssets.xml
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Shop.styles.css
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.TagHelpers.input.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.TagHelpers.output.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorCoreGenerate.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorTargetAssemblyInfo.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorTargetAssemblyInfo.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.Views.pdb
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csproj.CopyComplete
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.pdb
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.genruntimeconfig.cache
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Index.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SpecialTagPartial.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Create.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Edit.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Details.cshtml.g.cs
+G:\Asp.net_Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.StaticWebAssets.xml
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.exe
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.deps.json
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.runtimeconfig.json
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.runtimeconfig.dev.json
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.pdb
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.Views.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Online_Shop.Views.pdb
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csprojAssemblyReference.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.AssemblyInfoInputs.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.AssemblyInfo.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csproj.CoreCompileInputs.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorAssemblyInfo.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorAssemblyInfo.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online_Shop.StaticWebAssets.Manifest.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online_Shop.StaticWebAssets.xml
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Shop.styles.css
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.TagHelpers.input.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.TagHelpers.output.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorCoreGenerate.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Create.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Details.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Edit.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SpecialTags\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SpecialTagPartial.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorTargetAssemblyInfo.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.RazorTargetAssemblyInfo.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.Views.pdb
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.csproj.CopyComplete
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.pdb
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Online_Shop.genruntimeconfig.cache
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\X.PagedList.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialView.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+E:\Asp.net Core\Online_Shop\Online_Shop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
